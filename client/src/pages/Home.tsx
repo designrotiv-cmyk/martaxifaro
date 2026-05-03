@@ -148,7 +148,7 @@ export default function Home() {
       >
         <div className="container flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <img src="/manus-storage/LogoMTF_93259149.svg" alt="MarTaxi Faro" className="h-14 w-auto" />
+            <img src="/logo.png" alt="MarTaxi Faro" className="h-14 w-auto" />
           </div>
           <div className="flex gap-2 sm:gap-3 items-center">
             {/* Language Selector */}
@@ -621,7 +621,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <img src="/manus-storage/LogoMTF_93259149.svg" alt="MarTaxi Faro" className="h-8 w-auto" />
+                <img src="/logo.png" alt="MarTaxi Faro" className="h-8 w-auto" />
               </div>
               <p className="text-white/80">
                 {language === 'pt'
