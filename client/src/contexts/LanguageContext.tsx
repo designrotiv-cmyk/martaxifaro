@@ -19,7 +19,7 @@ export const translations = {
     // Hero Section
     'hero.tagline': 'Bem-vindo a bordo!',
     'hero.title': 'Explore a Ria Formosa',
-    'hero.titleHighlight': 'com João',
+    'hero.titleHighlight': 'com Mar Taxi Faro',
     'hero.subtitle': 'Táxi aquático privado para as ilhas. Rapidez, flexibilidade e conforto garantidos. Sem filas, sem horários fixos. Apenas você, o mar e a liberdade.',
     'hero.bookNow': 'Agendar Agora',
     'hero.badge1': 'Operador experiente',
@@ -99,7 +99,7 @@ export const translations = {
     // Hero Section
     'hero.tagline': 'Welcome aboard!',
     'hero.title': 'Explore Ria Formosa',
-    'hero.titleHighlight': 'with João',
+    'hero.titleHighlight': 'with Mar Taxi Faro',
     'hero.subtitle': 'Private water taxi to the islands. Speed, flexibility and comfort guaranteed. No queues, no fixed schedules. Just you, the sea and freedom.',
     'hero.bookNow': 'Book Now',
     'hero.badge1': 'Experienced operator',
